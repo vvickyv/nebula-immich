@@ -2,8 +2,8 @@
   "immich_server_digest": "sha256:b434cb9287eea1471c9974845914d4dd328c9c2d652e446ed4930f99944f0ceb",
   "immich_ml_digest": "sha256:5a0839dc5303cd7215bcd2180a26aed3af41675aefb3e75e5157e9f10ad16e6e",
   "nebula_code_file": "nebula-code.tar.gz.enc",
-  "nebula_code_sha256": "b4889580b5fa667ef3b971a091a306614807a5f4fb2f787d822a54c4de1c28e4",
-  "nebula_code_version": "v1.0-2675d70-2026-09-02",
+  "nebula_code_sha256": "3b7c7b2b762132341aab88b1d6d2efd2c81427a7328577b47c3506665b4a2440",
+  "nebula_code_version": "v1.0-7e2e42e-2026-09-02",
   "note": "Immich release + Nebula code tested together on reference hardware",
   "signed_at": "2026-09-02"
 }
